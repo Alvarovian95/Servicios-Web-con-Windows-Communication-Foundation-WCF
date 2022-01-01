@@ -1,0 +1,11 @@
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Implementacion\bin\Debug\Alvaro.Comercial.Creditos.Implementacion.dll
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Implementacion\bin\Debug\Alvaro.Comercial.Creditos.Implementacion.pdb
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Implementacion\bin\Debug\Alvaro.Comercial.Creditos.Contrato.dll
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Implementacion\bin\Debug\Alvaro.Comercial.Creditos.Dominio.dll
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Implementacion\bin\Debug\Alvaro.Comercial.Creditos.Contrato.pdb
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Implementacion\bin\Debug\Alvaro.Comercial.Creditos.Dominio.pdb
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Implementacion\obj\Debug\Alvaro.Comercial.Creditos.Implementacion.csprojAssemblyReference.cache
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Implementacion\obj\Debug\Alvaro.Comercial.Creditos.Implementacion.csproj.CoreCompileInputs.cache
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Implementacion\obj\Debug\Alvaro.Comercial.Creditos.Implementacion.csproj.CopyComplete
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Implementacion\obj\Debug\Alvaro.Comercial.Creditos.Implementacion.dll
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Implementacion\obj\Debug\Alvaro.Comercial.Creditos.Implementacion.pdb
