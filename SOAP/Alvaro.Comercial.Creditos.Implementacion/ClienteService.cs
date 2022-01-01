@@ -1,5 +1,6 @@
 ﻿using Alvaro.Comercial.Creditos.Contrato;
 using Alvaro.Comercial.Creditos.Dominio;
+using Alvaro.Comercial.Creditos.Fachada;
 using System.Collections.Generic;
 
 namespace Alvaro.Comercial.Creditos.Implementacion
@@ -8,12 +9,18 @@ namespace Alvaro.Comercial.Creditos.Implementacion
     {
         public IEnumerable<Cliente> ListarClientes()
         {
-            return null;
+            using (var instancia = new ClienteFachada())
+            {
+                return instancia.ListarClientes();
+            }
         }
 
-        public Cliente ObtenerCliente(string NumeroDocumento)
+        public Cliente ObtenerCliente(string numeroDocumento)
         {
-            return null;
+            using(var instancia = new ClienteFachada())
+            {
+                return instancia.ObtenerCliente(numeroDocumento);
+            }
         }
     }
 }
