@@ -4,7 +4,7 @@ using System.Runtime.Serialization;
 namespace Alvaro.Comercial.Creditos.Dominio
 {
     [DataContract]
-    class Credito
+    public class Credito
     {
         [DataMember]
         public int IdCredito { get; set; }
