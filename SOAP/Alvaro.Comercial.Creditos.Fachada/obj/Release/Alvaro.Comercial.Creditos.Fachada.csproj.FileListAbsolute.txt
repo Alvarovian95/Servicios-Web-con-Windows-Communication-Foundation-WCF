@@ -1,0 +1,15 @@
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Fachada\bin\Release\Alvaro.Comercial.Creditos.Fachada.dll
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Fachada\bin\Release\Alvaro.Comercial.Creditos.Fachada.pdb
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Fachada\bin\Release\Alvaro.Comercial.Creditos.ContratoRepositorio.dll
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Fachada\bin\Release\Alvaro.Comercial.Creditos.Dominio.dll
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Fachada\bin\Release\Alvaro.Comercial.Creditos.SqlRepositorio.dll
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Fachada\bin\Release\Dapper.dll
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Fachada\bin\Release\Alvaro.Comercial.Creditos.ContratoRepositorio.pdb
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Fachada\bin\Release\Alvaro.Comercial.Creditos.Dominio.pdb
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Fachada\bin\Release\Alvaro.Comercial.Creditos.SqlRepositorio.pdb
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Fachada\bin\Release\Dapper.xml
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Fachada\obj\Release\Alvaro.Comercial.Creditos.Fachada.csprojAssemblyReference.cache
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Fachada\obj\Release\Alvaro.Comercial.Creditos.Fachada.csproj.CoreCompileInputs.cache
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Fachada\obj\Release\Alvaro.Comercial.Creditos.Fachada.csproj.CopyComplete
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Fachada\obj\Release\Alvaro.Comercial.Creditos.Fachada.dll
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Fachada\obj\Release\Alvaro.Comercial.Creditos.Fachada.pdb

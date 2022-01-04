@@ -8,8 +8,10 @@ namespace Alvaro.Comercial.Creditos.Contrato
     public interface IClienteService
     {
         [OperationContract]
+        [FaultContract(typeof(Error))]
         Cliente ObtenerCliente(string numeroDocumento);
         [OperationContract]
+        [FaultContract(typeof(Error))]
         IEnumerable<Cliente> ListarClientes();
     }
 }

@@ -1,7 +1,9 @@
 ﻿using Alvaro.Comercial.Creditos.Contrato;
 using Alvaro.Comercial.Creditos.Dominio;
 using Alvaro.Comercial.Creditos.Fachada;
+using System;
 using System.Collections.Generic;
+using System.ServiceModel;
 
 namespace Alvaro.Comercial.Creditos.Implementacion
 {
@@ -9,18 +11,43 @@ namespace Alvaro.Comercial.Creditos.Implementacion
     {
         public IEnumerable<Cliente> ListarClientes()
         {
-            using (var instancia = new ClienteFachada())
+            try
             {
-                return instancia.ListarClientes();
+                using (var instancia = new ClienteFachada())
+                {
+                    return instancia.ListarClientes();
+                }
+            }
+            catch (Exception ex)
+            {
+                throw new FaultException<Error>(new Error()
+                {
+                    CodigoError = "1001",
+                    Descripcion = "Excepcion administrada por el servicio",
+                    MensajeError = ex.Message
+                });
             }
         }
 
         public Cliente ObtenerCliente(string numeroDocumento)
         {
-            using(var instancia = new ClienteFachada())
+            try
             {
-                return instancia.ObtenerCliente(numeroDocumento);
+                using (var instancia = new ClienteFachada())
+                {
+                    return instancia.ObtenerCliente(numeroDocumento);
+                }
             }
+            catch (Exception ex)
+            {
+                throw new FaultException<Error>(new Error()
+                {
+                    CodigoError = "1001",
+                    Descripcion = "Excepcion administrada por el servicio",
+                    MensajeError = ex.Message
+                });
+            }
+
         }
     }
 }

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Alvar\Desktop\asd</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Alvaro.Comercial.Creditos.Contrato.dll">
+      <publishTime>01/02/2022 10:44:48</publishTime>
+    </File>
+    <File Include="bin/Alvaro.Comercial.Creditos.Contrato.pdb">
+      <publishTime>01/02/2022 10:44:48</publishTime>
+    </File>
+    <File Include="bin/Alvaro.Comercial.Creditos.ContratoRepositorio.dll">
+      <publishTime>01/02/2022 10:44:48</publishTime>
+    </File>
+    <File Include="bin/Alvaro.Comercial.Creditos.ContratoRepositorio.pdb">
+      <publishTime>01/02/2022 10:44:48</publishTime>
+    </File>
+    <File Include="bin/Alvaro.Comercial.Creditos.Dominio.dll">
+      <publishTime>01/02/2022 10:44:48</publishTime>
+    </File>
+    <File Include="bin/Alvaro.Comercial.Creditos.Dominio.pdb">
+      <publishTime>01/02/2022 10:44:48</publishTime>
+    </File>
+    <File Include="bin/Alvaro.Comercial.Creditos.Fachada.dll">
+      <publishTime>01/02/2022 10:44:48</publishTime>
+    </File>
+    <File Include="bin/Alvaro.Comercial.Creditos.Fachada.pdb">
+      <publishTime>01/02/2022 10:44:48</publishTime>
+    </File>
+    <File Include="bin/Alvaro.Comercial.Creditos.Implementacion.dll">
+      <publishTime>01/02/2022 10:44:49</publishTime>
+    </File>
+    <File Include="bin/Alvaro.Comercial.Creditos.Implementacion.pdb">
+      <publishTime>01/02/2022 10:44:49</publishTime>
+    </File>
+    <File Include="bin/Alvaro.Comercial.Creditos.SqlRepositorio.dll">
+      <publishTime>01/02/2022 10:44:48</publishTime>
+    </File>
+    <File Include="bin/Alvaro.Comercial.Creditos.SqlRepositorio.pdb">
+      <publishTime>01/02/2022 10:44:48</publishTime>
+    </File>
+    <File Include="bin/Alvaro.Comercial.Creditos.WcfService.dll">
+      <publishTime>01/02/2022 10:44:49</publishTime>
+    </File>
+    <File Include="bin/Alvaro.Comercial.Creditos.WcfService.pdb">
+      <publishTime>01/02/2022 10:44:49</publishTime>
+    </File>
+    <File Include="bin/Dapper.dll">
+      <publishTime>11/03/2021 14:07:30</publishTime>
+    </File>
+    <File Include="ClienteService.svc">
+      <publishTime>01/01/2022 15:41:27</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/02/2022 10:44:49</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

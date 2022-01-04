@@ -1,0 +1,9 @@
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.ContratoRepositorio\bin\Release\Alvaro.Comercial.Creditos.ContratoRepositorio.dll
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.ContratoRepositorio\bin\Release\Alvaro.Comercial.Creditos.ContratoRepositorio.pdb
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.ContratoRepositorio\bin\Release\Alvaro.Comercial.Creditos.Dominio.dll
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.ContratoRepositorio\bin\Release\Alvaro.Comercial.Creditos.Dominio.pdb
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.ContratoRepositorio\obj\Release\Alvaro.Comercial.Creditos.ContratoRepositorio.csprojAssemblyReference.cache
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.ContratoRepositorio\obj\Release\Alvaro.Comercial.Creditos.ContratoRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.ContratoRepositorio\obj\Release\Alvaro.Comercial.Creditos.ContratoRepositorio.csproj.CopyComplete
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.ContratoRepositorio\obj\Release\Alvaro.Comercial.Creditos.ContratoRepositorio.dll
+C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.ContratoRepositorio\obj\Release\Alvaro.Comercial.Creditos.ContratoRepositorio.pdb
