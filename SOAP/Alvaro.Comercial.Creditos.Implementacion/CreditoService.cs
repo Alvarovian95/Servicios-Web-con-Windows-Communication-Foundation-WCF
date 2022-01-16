@@ -1,6 +1,6 @@
 ﻿using Alvaro.Comercial.Creditos.Contrato;
 using Alvaro.Comercial.Creditos.Dominio;
-using System;
+using Alvaro.Comercial.Creditos.Fachada;
 using System.Collections.Generic;
 
 namespace Alvaro.Comercial.Creditos.Implementacion
@@ -9,22 +9,34 @@ namespace Alvaro.Comercial.Creditos.Implementacion
     {
         public Credito ActualizarCredito(Credito credito)
         {
-            throw new NotImplementedException();
+            using (var instancia = new CreditoFachada())
+            {
+                return instancia.ActualizarCredito(credito);
+            }
         }
 
-        public Credito EliminarCredito(int idCredito)
+        public bool EliminarCredito(string idCredito)
         {
-            throw new NotImplementedException();
+            using (var instancia = new CreditoFachada())
+            {
+                return instancia.EliminarCredito(idCredito);
+            }
         }
 
         public IEnumerable<Credito> ListarCredito()
         {
-            throw new NotImplementedException();
+            using (var instancia = new CreditoFachada())
+            {
+                return instancia.ListarCredito();
+            }
         }
 
         public Credito RegistrarCredito(Credito credito)
         {
-            throw new NotImplementedException();
+            using (var instancia = new CreditoFachada())
+            {
+                return instancia.RegistrarCredito(credito);
+            }
         }
     }
 }

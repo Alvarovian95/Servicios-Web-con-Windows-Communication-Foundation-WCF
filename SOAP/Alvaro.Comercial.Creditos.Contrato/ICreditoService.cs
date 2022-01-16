@@ -22,6 +22,6 @@ namespace Alvaro.Comercial.Creditos.Contrato
 
         [OperationContract]
         [WebInvoke(ResponseFormat = WebMessageFormat.Json, RequestFormat = WebMessageFormat.Json, Method = "DELETE", UriTemplate = "/EliminarCredito/{idCredito}", BodyStyle = WebMessageBodyStyle.Bare)]
-        Credito EliminarCredito(int idCredito);
+        bool EliminarCredito(string idCredito);
     }
 }

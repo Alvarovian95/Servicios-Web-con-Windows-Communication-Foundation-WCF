@@ -1,6 +1,5 @@
 C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Dominio\bin\Debug\Alvaro.Comercial.Creditos.Dominio.dll
 C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Dominio\bin\Debug\Alvaro.Comercial.Creditos.Dominio.pdb
-C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Dominio\obj\Debug\Alvaro.Comercial.Creditos.Dominio.csprojAssemblyReference.cache
 C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Dominio\obj\Debug\Alvaro.Comercial.Creditos.Dominio.csproj.CoreCompileInputs.cache
 C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Dominio\obj\Debug\Alvaro.Comercial.Creditos.Dominio.dll
 C:\Users\Alvar\source\repos\Servicios-Web-con-Windows-Communication-Foundation-WCF\SOAP\Alvaro.Comercial.Creditos.Dominio\obj\Debug\Alvaro.Comercial.Creditos.Dominio.pdb
